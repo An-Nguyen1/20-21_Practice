@@ -40,7 +40,11 @@ def louis():
     print("Fact 1: I am a gamer who can play almost anything.")
     print("Fact 2: My computer monitor is a TV.")
     print("Fact 3: Despite being Filipino, I could not speak Tagalog")
-
+def An():
+    print("I took a nap through most of my classes and no one noticed")
+    print("Cake taste sweet, and so is this club")
+    print("I like puns because they are punny")
+    
 ##End of function area
 
 print("Let your fellow club members get to know you!\n")
@@ -74,6 +78,8 @@ elif name == "dorothy":
 
 elif name == "wade":
     wade()
+elif name == "An":
+    An()
 
 else: 
     print("There is sadly no one of that name in this club :(\n\nGo Advertise!")
